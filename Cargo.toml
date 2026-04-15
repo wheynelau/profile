@@ -1,10 +1,10 @@
 [package]
 name = "profile"
-version = "0.2.0-alpha.3"
+version = "0.1.0"
 edition = "2021"
 authors = ["Perry <jungledesh@gmail.com>"]
 description = "Rust-based CLI tool for profiling vLLM GPU and other metrics."
-repository = "https://github.com/wheynelau/profile"
+repository = "https://github.com/jungledesh/profile"
 
 [[bin]]
 name = "profile"
